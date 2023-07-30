@@ -1,4 +1,4 @@
-# YT-Video-Downloader-Python-
+# YT-Video-Downloader-Python
 
 YouTube video downloader is a tool that allows you to download videos from YouTube, and save them to your device.
 
