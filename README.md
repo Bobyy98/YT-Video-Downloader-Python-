@@ -21,8 +21,8 @@ Basic Instructions:
 1. Download the .py source code and .png files.
 2. We need to install the primary library, which is pytube:
 
-Enter the following in the cmd:
-$ pip install pytube
+   Enter the following in the cmd:
+   $ pip install pytube
 
 3. On line 92, you might need to change the file directory where you have stored the .png file.
 4. When you run the program for the first time, you will be told to authenticate the program to your Google account. After completing the authentication process, you can run the program.
