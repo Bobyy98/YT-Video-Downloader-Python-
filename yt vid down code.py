@@ -89,7 +89,7 @@ window.resizable(height=FALSE, width=FALSE)
 canvas = Canvas(window, width=500, height=400)
 canvas.pack()
 
-logo = PhotoImage(file='E:\KJ Somaiya\KJS Res\Sem 2\PP\proj\Proper one\youtubelogo2.png')
+logo = PhotoImage(file='Downloads\youtubelogo2.png') #Change location of the file directory if required
 logo = logo.subsample(10, 10)
 canvas.create_image(250, 80, image=logo)
 
